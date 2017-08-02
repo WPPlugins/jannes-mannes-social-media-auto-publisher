@@ -1,0 +1,15 @@
+{
+    "require": {
+        "facebook/php-sdk-v4": "~5.0",
+        "php-http/curl-client": "^1.6",
+        "guzzlehttp/psr7": "^1.3",
+        "php-http/message": "^1.3",
+        "happyr/linkedin-api-client": "^1.0",
+        "stephenyeargin/yammer-oauth2-php": "^1.0",
+        "phpfastcache/phpfastcache": "^4.3",
+        "simplon/twitter": "^0.2.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    }
+}
